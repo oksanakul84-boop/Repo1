@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Моя перша презентація</title>
+</head> 
+<body>
+<body style="background-color:lavender;">
+
+<div style="border: 1px solid black; padding: 20px;">
+
+<h1 style="font-size: 35px; color: darkslategray; text-align: center;"> Вітаю, мене звати Оксана!</h1>
+
+<p style="font-size: 20px; color: darkslategray; text-align: justify; text-indent: 2em;"> Я щаслива мама, любляча дружина та жінка, яка поєднує сімейні цінності з прагненням до розвитку. Маю аналітичне мислення, відповідальність та глибоке розуміння бізнес-процесів. Маю досвід роботи з ERP-системами, управлінням документами та оптимізацією робочих потоків. Легко та швидко освоюю нові програми, люблю аналізувати інформацію, знаходити рішення та наводити порядок у складних системах.</p>
+
+<p style="font-size: 20px; color: darkslategray; text-align: justify; text-indent: 2em;"> У вільний час подорожую, вивчаю польську мову, читаю, займаюсь йогою та фітнесом. Мене надихає розвиток, нові знання та рух до гармонійного життя. Зараз активно навчаюся в Академії IT LIFE Україна за напрямком QA-тестування, відкриваючи для себе нові професійні можливості.</p>
+
+<p style="font-size: 20px; color: darkslategray; text-align: center;"> <b>Мій девіз по життю: «Я створюю свою реальність силою рішень, віри та дії».</b></p>
+<br>
+
+<img src="https://images.wallpaperscraft.ru/image/single/buket_tsvety_kompozitsiia_137663_1280x720.jpg"; style="max-width: 100%; height: auto;" alt="Centered Image;">
+</div>
+</body>
+</html>
